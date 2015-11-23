@@ -79,7 +79,7 @@ model
 ```                         
 
 
-As the above results show, the resulting predictor has a low OOB (out-of-bag) error estimate(.52%). The confusion matrix for the training set indicates that the predictor is accurate on that set.
+As the above results show, the resulting predictor has a low OOB (out-of-bag) error estimate. The confusion matrix for the training set indicates that the predictor is accurate on that set.
 
 ```{r}
 plot(model)
